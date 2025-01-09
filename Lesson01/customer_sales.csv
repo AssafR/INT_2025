@@ -1,0 +1,6 @@
+CustomerID,Age,Country,PurchaseAmount,PurchaseDate
+1,25.0,USA,100.50,2023-01-01
+2,30.0,Canada,200.00,2023-01-02
+3,,USA,150.75,2023-01-03
+4,40.0,Canada,300.00,2023-01-04
+5,35.0,Germany,250.25,2023-01-05
